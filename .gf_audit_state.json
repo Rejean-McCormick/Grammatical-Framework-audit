@@ -1,6 +1,6 @@
 {
   "selected_mode": "file",
-  "selected_target_file": "C:/mycode/Grammatical_Framework/Grammatical_Framework-Albanian/AlbanianSQI/GF/lib/src/albanian/ExtendSqiScaffolding.gf",
+  "selected_target_file": "C:\\mycode\\Grammatical_Framework\\Grammatical_Framework-Albanian\\AlbanianSQI\\GF\\lib\\src\\albanian\\ExtendSqi.gf",
   "selected_project_root": "C:\\mycode\\Grammatical_Framework\\Grammatical_Framework-Albanian\\AlbanianSQI\\GF",
   "selected_rgl_root": "C:\\mycode\\Grammatical_Framework\\gf-rgl\\src",
   "selected_gf_exe": "C:\\mycode\\Grammatical_Framework\\gf-3.12-windows\\gf.exe",
@@ -11,12 +11,12 @@
   "selected_include_regex": "^[A-Z][A-Za-z0-9_]*\\.gf$",
   "selected_exclude_regex": "( - Copie\\.gf$|\\.bak\\.gf$|\\.tmp\\.gf$|\\.disabled\\.gf$|\\s)",
   "selected_keep_ok_details": true,
-  "selected_diff_previous": false,
+  "selected_diff_previous": true,
   "selected_skip_version_probe": false,
   "selected_no_compile": false,
   "selected_emit_cpu_stats": false,
   "is_running": false,
-  "last_run_dir": "C:\\mycode\\Grammatical_Framework\\gf-audit\\run_20260402_164736",
-  "last_summary_path": "C:\\mycode\\Grammatical_Framework\\gf-audit\\run_20260402_164736\\summary.json",
+  "last_run_dir": "C:\\mycode\\Grammatical_Framework\\gf-audit\\run_20260916_154149",
+  "last_summary_path": "C:\\mycode\\Grammatical_Framework\\gf-audit\\run_20260916_154149\\summary.json",
   "status_message": "Audit completed."
 }
